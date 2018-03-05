@@ -2,5 +2,12 @@ package gitdia1
 
 class GrailsGitController {
 
-    def index() { }
+    def index() {
+        //Login
+    }
+
+    def siteList() {
+        //SiteList
+    }
+
 }
